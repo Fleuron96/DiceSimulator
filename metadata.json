@@ -1,0 +1,8 @@
+{
+  "name": "Stake Dice — Simulateur & Backtest de Stratégies",
+  "description": "Simulateur mathématique et moteur de backtesting de stratégies Dice (House Edge 1 % / RTP 99 %) avec éditeur de règles Si/Alors et analyse de courbe de capital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
